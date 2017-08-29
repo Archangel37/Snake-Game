@@ -1,0 +1,17 @@
+c:\users\sergeychi\documents\visual studio 2012\Projects\Snake_Self\Snake_Self\bin\Debug\Snake_Self.exe.config
+c:\users\sergeychi\documents\visual studio 2012\Projects\Snake_Self\Snake_Self\bin\Debug\Snake_Self.exe
+c:\users\sergeychi\documents\visual studio 2012\Projects\Snake_Self\Snake_Self\bin\Debug\Snake_Self.pdb
+c:\users\sergeychi\documents\visual studio 2012\Projects\Snake_Self\Snake_Self\obj\Debug\Snake_Self.Form1.resources
+c:\users\sergeychi\documents\visual studio 2012\Projects\Snake_Self\Snake_Self\obj\Debug\Snake_Self.Properties.Resources.resources
+c:\users\sergeychi\documents\visual studio 2012\Projects\Snake_Self\Snake_Self\obj\Debug\Snake_Self.csproj.GenerateResource.Cache
+c:\users\sergeychi\documents\visual studio 2012\Projects\Snake_Self\Snake_Self\obj\Debug\Snake_Self.exe
+c:\users\sergeychi\documents\visual studio 2012\Projects\Snake_Self\Snake_Self\obj\Debug\Snake_Self.pdb
+G:\C_Sharp\Snake_Self\Snake_Self\bin\Debug\Snake_Self.exe.config
+G:\C_Sharp\Snake_Self\Snake_Self\obj\Debug\Snake_Self.exe
+G:\C_Sharp\Snake_Self\Snake_Self\obj\Debug\Snake_Self.pdb
+G:\C_Sharp\Snake_Self\Snake_Self\bin\Debug\Snake_Self.exe
+G:\C_Sharp\Snake_Self\Snake_Self\bin\Debug\Snake_Self.pdb
+G:\C_Sharp\Snake_Self\Snake_Self\obj\Debug\Snake_Self.csprojResolveAssemblyReference.cache
+G:\C_Sharp\Snake_Self\Snake_Self\obj\Debug\Snake_Self.Form1.resources
+G:\C_Sharp\Snake_Self\Snake_Self\obj\Debug\Snake_Self.Properties.Resources.resources
+G:\C_Sharp\Snake_Self\Snake_Self\obj\Debug\Snake_Self.csproj.GenerateResource.Cache
